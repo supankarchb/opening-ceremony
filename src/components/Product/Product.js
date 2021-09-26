@@ -5,7 +5,7 @@ import './Product.css';
 
 const Product = (props) => {
 
-    const{name,age,invitationCost,profession} = props.actor;
+    const{name,age,invitationCost,profession,country} = props.actor;
     const element = <FontAwesomeIcon icon={faUserPlus} />
     return (
        <div className="col-md-4">
@@ -18,9 +18,8 @@ const Product = (props) => {
               <p className="card-text"><b>Name:</b>{name}</p>
               <p className="card-text"><b>Profession:</b> {profession}</p>
               <p className="card-text"><b>Age:</b> {age}</p>
+              <p className="card-text"><b>Country:</b> {country}</p>
               <p className="card-text"><b>Invaitation-Cost:</b> {invitationCost}</p>
-             
-              <p className="card-text"><b>About:</b> {age}</p>
               <button className="rounded-pill border border-dark p-2 bg-primary text-white" onClick={()=>props.handleToCart(props.actor)}>{element} Add for invite</button>
             </div>
           </div>

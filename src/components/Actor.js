@@ -24,7 +24,7 @@ const Actor = () => {
 
     return (
         <div>
-           <div className="row">
+           <div className="row bg-light">
                <div className="col-md-9">
                    <div className="row">
                        {
@@ -40,7 +40,7 @@ const Actor = () => {
                </div>
 
         
-           <div className="col-md-3 border border-primary mt-2 rounded">
+           <div className="col-md-3 border border-dark mt-2 rounded">
               <Cart cart={cart}></Cart>
 
            </div>

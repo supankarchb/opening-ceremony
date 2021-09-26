@@ -15,9 +15,10 @@ const Cart = (props) => {
   
     return (
         <div>
-             <h6>Added added person :{props.cart.length}</h6>
+            <h2>Detail Information</h2>
+             <h6>Total added person :{props.cart.length}</h6>
              <h5>Total Costing: {total}</h5>
-             <h5>Adding Person Name :<li>{arrayTotal}</li></h5>
+             <h5>{arrayTotal}</h5>
             
         </div>
     );
