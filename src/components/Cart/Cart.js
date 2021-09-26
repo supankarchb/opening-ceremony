@@ -6,32 +6,25 @@ const Cart = (props) => {
     for(const actor of cart){
         total = total + parseInt(actor.invitationCost);
     }
-        // let arrayTotal = [];
-        // for(const actor of cart){
-        //     arrayTotal = arrayTotal + actor.name;
-    
-        // }
-
-  
+    // cart details
     return (
         <div>
-            <h2>Detail Information</h2>
-             <h6>Total added person :{props.cart.length}</h6>
-             <h5>Total Costing: {total}</h5>
+            <h4 className="text-primary">Details Information</h4>
+             <h6>Total added person : {props.cart.length}</h6>
+             <h6>Total Costing : {total} TK</h6>
+             <h4 className="text-primary">Added person name </h4>
            {
                cart.map((actor)=>(
 
                 <ul>
-                    <li className="h5">
-                        <p>name:{actor.name}</p>
+                    <li>
+                       
+                        <h5>{actor.name}</h5>
 
                     </li>
                 </ul>
                ))
-
-
-           }
-            
+           } 
         </div>
     );
 };

@@ -5,18 +5,18 @@ import Product from './Product/Product';
 
 const Actor = () => {
 
+// using useState
     const[actors, setActors] = useState([]);
     const[cart,setCart] = useState([]);
-    // const[name,setName] = useState([]);
 
-
+// using useEffect
     useEffect(()=>{
 
         fetch("fakedata.JSON")
         .then(res => res.json())
         .then(data =>setActors(data))
     },[])
-
+// using spred operator
     const handleToCart =(actor) =>{
         const newCart = [...cart,actor];
         setCart(newCart);
@@ -34,15 +34,10 @@ const Actor = () => {
                                >
                            </Product> )
                        }
-
                    </div>
-
                </div>
-
-        
            <div className="col-md-3 border border-dark mt-2 rounded">
               <Cart cart={cart}></Cart>
-
            </div>
         </div>
         </div>
