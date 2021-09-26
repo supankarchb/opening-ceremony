@@ -1,0 +1,84 @@
+[
+    {
+           "key":"454986565655696598956569",
+           "name": "Farida Akhtar Babita",
+           "profession": "Actress",
+           "age": "65",
+           "invitationCost": "60000",
+           "img": "https://www.daily-sun.com/assets/news_images/2018/07/30/DS-30-07-2018-12.jpg",
+       "aboutHer": "Babita's notable work includes Shukhe Thako, Taka Anna Pai, Shorolipi, Manusher Mon, Pich Dhala Path, Noyon Moni, Jonmo Theke Jolchi and Anarkoli.          Her acting gained the attention of the Indian director Satyajit Ray."
+       },
+       {
+        "key":"454986565655696598956568",
+           "name": "Alamgir",
+           "profession": "Actor",
+       "age": "70",
+           "invitationCost": "80000",
+           "img": "https://media-eng.dhakatribune.com/uploads/2021/04/images-62-1618921340544.jpeg",
+       "aboutHer": "Alamgir (born 4 April 1950)is a Bangladeshi popular film actor and television host.He won Bangladesh National Film Award for Best Actor and                Bangladesh National Film Award for Best Supporting Actor a record nine times for his roles in the films."
+       },
+       {
+        "key":"454986565655696598956567",
+           "name": "Misa Sawdagar",
+           "profession": "Villain",
+       "age": "60",
+           "invitationCost": "50000",
+           "img": "https://banglarshomoy.com/wp-content/uploads/2017/01/birthday-of-Misha-swadagor-300x194.jpg",
+       "aboutHer": "Shahid Hasan Misha is a Bangladeshi film actor. He has appeared in more than 800 films.Misha Sawdagor won the contest arranged by  BFDC in 1986. He was cast as a hero in Chhotku Ahmed's movie Chetona in 1990."
+       },
+        {
+            "key":"454986565655696598956566",
+           "name": "Mousumi",
+           "profession": "Actress",
+       "age": "45",
+           "invitationCost": "30000",
+           "img": "https://www.daily-sun.com/assets/news_images/2019/07/11/Daily-su-1--2019-07-11.jpg",
+       "aboutHer": "Arifa Pervin Zaman, better known by her stage name Moushumi, is a Bangladeshi film actress and director. She won Bangladesh National Film Award          for Best Actress three times for her roles in Meghla Akash, Devdas and Taarkata"
+       },
+       {
+        "key":"454986565655696598956565",
+           "name": "Omar Sani",
+           "profession": "Actor",
+       "age": "55",
+           "invitationCost": "45000",
+           "img": "https://www.daily-sun.com/assets/news_images/2020/09/01/19.gif",
+       "aboutHer": "Mohammad Omar Sani (born 6 May 1968),is a Bangladeshi film and television actor.Sani's film debut was in the 1990 film Chader Alo, directed by              Shaikh Najrul Islam Khan.He acted in Prem Protishodh (1993) and Mohoth (1994)."
+       },
+       {
+        "key":"454986565655696598956564",
+           "name": "Ferdous Ahmed",
+           "profession": "Actor",
+           "age": "50",
+           "invitationCost": "42000",
+           "img": "https://www.daily-bangladesh.com/media/imgAll/2018January/SM/-180314103740.",
+       "aboutHer": "He was introduced in the film industry by choreographer Amir Hossain Babu.He debuted in the film Hothat Brishti,directed by Basu                           ChatterjeeHe won his first Bangladesh National Film Award for Best Actor."
+       },
+       {
+        "key":"454986565655696598956563",
+           "name": "Bapparaj",
+           "profession": "Actor",
+           "age": "48",
+           "invitationCost": "35000",
+           "img": "https://www.daily-sun.com/assets/news_images/2017/07/27/Daily-sun-2017-07-27-05-4.jpg",
+       "aboutHer": "Bapparaj is an actor, director and producer in the film industry of Bangladesh. He is better known for his roles of tragic roles in romantic                relationships. He is the son of Bengali cinema actor Nayak Raj Razzak."
+       },
+       {
+        "key":"454986565655696598956561",
+           "name": "Nirob Hossain",
+           "profession": "Actor",
+       "age": "38",
+           "invitationCost": "25000",
+           "img": "https://www.daily-bangladesh.com/media/imgAll/2020June/en/nirab-2012240747.jpg",
+       "aboutHer": "Md Shakhawat Hossain Nirab commonly known as Nirab, is a Bangladeshi film actor and model.Nirab started his career by modeling.He acted in                  several television commercials,dramas and later he started working in films."
+       },
+       {
+        "key":"454986565655696598956562",
+           "name": "Arifin Shuvo",
+           "profession": "Actor",
+       "age": "37",
+           "invitationCost": "53000",
+           "img": "https://i.pinimg.com/736x/57/ed/f2/57edf2293dc0028a9f94302d0f6c9a4f.jpg",
+       "aboutHer": "Arifin Shuvoo born 2 February 1982, is a Bangladeshi film actor and television personality. He is the recipient of several awards and nominations,          including a National Film Award and two Meril Prothom Alo Awards."
+       }
+      
+   ]
